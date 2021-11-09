@@ -1,6 +1,6 @@
 ### Olá, meu nome é Gabriel Visicatto Soares!!
 
-- Atualmente estou estudando para virar desenvolvedor front end 💪
+- Atualmente estudo para me tornar desenvolvedor front end 💪
 - Linguagens que estou estudando:
 
 <div style="display: inline_block">

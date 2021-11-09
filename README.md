@@ -1,16 +1,24 @@
-### Hi there 👋
+### Olá, meu nome é Gabriel Visicatto Soares!!
 
-<!--
-**gabsoares/gabsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Atualmente estou estudando para virar desenvolvedor front end 💪
+- Linguagens que estou estudando:
 
-Here are some ideas to get you started:
+<div style="display: inline_block">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</div><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Acompanhe minha evolução!
+
+<a href="https://www.linkedin.com/in/gabriel-visicatto-soares-53867320a/" target="_blank">
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+</a><br /><br />
+
+Entre em contato comigo 
+
+
+<a href="mailto:soaresgabriel68@gmail.com" target="_blank">
+  <img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>

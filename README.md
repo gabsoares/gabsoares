@@ -1,12 +1,10 @@
 ### Olá, meu nome é Gabriel Visicatto Soares!!
 
-- Atualmente estudo para me tornar desenvolvedor front end 💪
-- Linguagens que estou estudando:
+- Atualmente estudo para me tornar desenvolvedor mobile IOS 💪
+- Linguagem que estou estudando:
 
 <div style="display: inline_block">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 </div><br/>
 
 

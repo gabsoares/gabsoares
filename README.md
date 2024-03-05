@@ -1,11 +1,6 @@
 ### Olá, meu nome é Gabriel Visicatto Soares!!
 
-- Atualmente estudo para me tornar Desenvolvedor Java 💪
-- Linguagem que estou estudando:
-
-<div style="display: inline_block">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-           
+- Atualmente estudo para me tornar Desenvolvedor 💪
           
 </div><br/>
 
